@@ -6,3 +6,4 @@ new edition for a commit test
 4
 5
 6
+7
